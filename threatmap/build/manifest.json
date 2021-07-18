@@ -1,0 +1,20 @@
+{
+    "short_name": "Threat Map",
+    "name": "Live Cyber Threat Map | Check Point",
+    "icons": [
+        {
+            "src": "images/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "start_url": ".",
+    "display": "browser",
+    "theme_color": "#e45785",
+    "background_color": "#000000"
+}

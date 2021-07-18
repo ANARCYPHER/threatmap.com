@@ -1,0 +1,42 @@
+RIPPER by HACK-ROLL baby
+
+Uri: https://threatmap.checkpoint.com/
+File Name: C:\Downloaded Web Sites\threatmap.checkpoint.com\index.htm
+Content Type: text/html
+
+Uri: https://sc1.checkpoint.com/threatmap/build/images/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\threatmap.checkpoint.com\threatmap\build\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://sc1.checkpoint.com/threatmap/build/images/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\threatmap.checkpoint.com\threatmap\build\images\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://sc1.checkpoint.com/threatmap/build/images/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\threatmap.checkpoint.com\threatmap\build\images\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://sc1.checkpoint.com/threatmap/build/manifest.json
+File Name: C:\Downloaded Web Sites\threatmap.checkpoint.com\threatmap\build\manifest.json
+Content Type: application/json
+
+Uri: https://sc1.checkpoint.com/threatmap/build/images/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\threatmap.checkpoint.com\threatmap\build\images\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://sc1.checkpoint.com/threatmap/build/static/css/2.54fea770.chunk.css
+File Name: C:\Downloaded Web Sites\threatmap.checkpoint.com\threatmap\build\static\css\2.54fea770.chunk.css
+Content Type: text/css
+
+Uri: https://sc1.checkpoint.com/threatmap/build/static/css/main.5c22f753.chunk.css
+File Name: C:\Downloaded Web Sites\threatmap.checkpoint.com\threatmap\build\static\css\main.5c22f753.chunk.css
+Content Type: text/css
+
+Uri: https://sc1.checkpoint.com/threatmap/build/static/js/2.fd3bb518.chunk.js
+File Name: C:\Downloaded Web Sites\threatmap.checkpoint.com\threatmap\build\static\js\2.fd3bb518.chunk.js
+Content Type: application/x-javascript
+
+Uri: https://sc1.checkpoint.com/threatmap/build/static/js/main.130eb6e5.chunk.js
+File Name: C:\Downloaded Web Sites\threatmap.checkpoint.com\threatmap\build\static\js\main.130eb6e5.chunk.js
+Content Type: application/x-javascript
+
